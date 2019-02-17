@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8939FF6022192AD400BF6BDF /* Icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 8939FF4222192AD300BF6BDF /* Icon-1024.png */; };
+		8939FF7122192BBB00BF6BDF /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 8939FF7022192BBB00BF6BDF /* Icon-120.png */; };
 		89590B1B2218C18200483067 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89590B1A2218C18200483067 /* AppDelegate.swift */; };
 		89590B1D2218C18200483067 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89590B1C2218C18200483067 /* ViewController.swift */; };
 		89590B202218C18200483067 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89590B1E2218C18200483067 /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8939FF4222192AD300BF6BDF /* Icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-1024.png"; sourceTree = "<group>"; };
+		8939FF7022192BBB00BF6BDF /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-120.png"; sourceTree = "<group>"; };
 		89590B172218C18200483067 /* brick.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = brick.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89590B1A2218C18200483067 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89590B1C2218C18200483067 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,6 +74,8 @@
 		89590B2C2218C33600483067 /* media */ = {
 			isa = PBXGroup;
 			children = (
+				8939FF7022192BBB00BF6BDF /* Icon-120.png */,
+				8939FF4222192AD300BF6BDF /* Icon-1024.png */,
 				89590B2D2218C36600483067 /* 4607277184_bdbb2177e7_b.jpg */,
 			);
 			path = media;
@@ -136,6 +142,8 @@
 				89590B252218C18300483067 /* LaunchScreen.storyboard in Resources */,
 				89590B222218C18300483067 /* Assets.xcassets in Resources */,
 				89590B202218C18200483067 /* Main.storyboard in Resources */,
+				8939FF6022192AD400BF6BDF /* Icon-1024.png in Resources */,
+				8939FF7122192BBB00BF6BDF /* Icon-120.png in Resources */,
 				89590B2E2218C36600483067 /* 4607277184_bdbb2177e7_b.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
